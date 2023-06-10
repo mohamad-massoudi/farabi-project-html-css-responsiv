@@ -1,0 +1,473 @@
+
+@media (min-width: 576px) {
+
+    .mnue-btn{
+        color: white;
+        background-color: rgb(27, 37, 141);
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 8px 20px;
+
+    }
+    
+    #h-s-1{
+        color:black;
+        font-size: 11px;
+        font-weight: 900;
+    }
+
+    .f-icon {
+        height:auto;
+        width:50%;
+        border-radius: 15px;
+    }
+
+
+    .f-p ul {
+        font-size:15px;
+        color: azure;
+        display:flex;
+        flex-direction:column;
+        font-weight: 400;
+        text-align:right;
+        line-height: 3em;
+        padding-right: 5px;
+    
+    }
+
+    .f-p span {
+        font-size: 17px;
+        text-align: right;
+    }
+    
+    .p-2 {
+        color: black !important;
+        font-size: 8px !important;
+        font-weight :900;
+        background-color: rgb(48, 65, 65);
+        text-align: right;
+        padding:0px 5px 20px 0px;
+    }
+    
+    label{
+        font-size: 17px;
+    }
+
+    
+.div-content-us p{
+    font-size: 20px;
+
+}
+
+.form-lable{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.form-input{
+    border-radius: 5px;
+    width: 36%;
+    direction: rtl;
+    font-weight: 800;
+}
+
+
+.form-btn{
+    color: white;
+    background-color: rgb(27, 37, 141);
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    font-weight:900;
+    padding: 12px 40px;
+}
+
+.form-item{
+    padding: 20px 70px;
+}
+
+.user-p h3 {
+    font-size: 14px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+    font-weight: 700;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.user-p-b {
+    font-size: 14px !important;
+    padding: 10px !important;
+    margin-right:10px;
+
+    margin-bottom: 13px;
+    
+}
+
+.user-p p{
+    font-size: 20px;
+    margin-right: 10px;
+    width: 100%;
+    text-align: right;
+    margin-bottom: 45px;
+}
+.cours{
+    width: 90%;
+}
+.s-main-cours{
+    width: 90%;
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction:column;
+    align-items: center;
+    transform: translate(-8%);
+}
+
+.cours table{
+    border: 3px solid black;
+    width: 90%;
+    padding: 5px; 
+    border-radius: 0px 0px 5px 5px;
+    transform: translate(5%);
+ 
+}
+
+
+
+}
+
+@media (min-width: 768px) {
+    .s-main ul{
+        list-style-type: none;
+        display:inline-flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    #h-s-1{
+        color:black;
+        font-size: 13px;
+        font-weight: 900;
+    }
+
+
+    
+
+    .box {
+        width: 40%;
+        background-color: rgb(27, 37, 141);
+        border-radius: 10px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        padding: 30px 0px 30px 0px ;
+        margin-right: 10px;
+        justify-content: center;
+        display:inline-flex;
+        flex-direction:column;
+        
+    }
+
+    .f-icon {
+        height:auto;
+        width:50%;
+        border-radius: 15px;
+    }
+
+    .f-p ul {
+        font-size:16px;
+        color: azure;
+        display:flex;
+        flex-direction:column;
+        font-weight: 400;
+        text-align:right;
+        line-height: 3em;
+        padding-right: 5px;
+    
+    }
+    .f-p span {
+        font-size: 18px;
+        text-align: right;
+    }
+    
+    .p-2 {
+        color: black !important;
+        font-size: 9px !important;
+        font-weight :900;
+        background-color: rgb(48, 65, 65);
+        text-align: right;
+        padding:0px 5px 20px 0px;
+    }
+    
+    label{
+        font-size: 18px;
+    }
+    .div-content-us p{
+        font-size: 23px;
+    }
+    
+
+    .form-lable{
+        font-size: 24px;
+        font-weight: 700;
+        margin-left: 80px;
+    }
+    
+    .form-input{
+        border-radius: 5px;
+        width: 36%;
+        direction: rtl;
+        font-weight: 800;
+    }
+    
+    
+    .form-btn{
+        color: white;
+        background-color: rgb(27, 37, 141);
+        border: none;
+        border-radius: 5px;
+        font-size: 14px;
+        font-weight:900;
+        padding: 12px 40px;
+    }
+
+    .form-item{
+        padding: 25px 80px;
+    }
+
+}
+
+
+@media (min-width: 992px) {
+    .mnue-btn{
+        color: white;
+        background-color: rgb(27, 37, 141);
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 10px 40px;
+        margin: 0px  20px;
+        
+    }
+
+    #h-s-1{
+        color:black;
+        font-size: 15px;
+        font-weight: 900;
+    }
+
+    .f-icon {
+        height:auto;
+        width:50%;
+        border-radius: 15px;
+    }
+
+
+    .s-main ul{
+        list-style-type: none;
+        display:inline-flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+
+    
+
+    .box {
+        width: 45%;
+        background-color: rgb(27, 37, 141);
+        border-radius: 10px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        padding: 30px 0px 30px 0px ;
+        margin-right: 10px;
+        justify-content: center;
+        display:inline-flex;
+        flex-direction:column;
+    }
+
+    
+    .f-p ul {
+        font-size:17px;
+        color: azure;
+        display:flex;
+        flex-direction:column;
+        font-weight: 400;
+        text-align:right;
+        line-height: 3em;
+        padding-right: 5px;
+    
+    }
+
+    .f-p span {
+        font-size: 20px;
+        text-align: right;
+    }
+    
+    .p-2 {
+        color: black !important;
+        font-size: 10px !important;
+        font-weight :900;
+        background-color: rgb(48, 65, 65);
+        text-align: right;
+        padding:0px 5px 20px 0px;
+    }
+    
+    label{
+        font-size: 20px;
+    }
+
+    .about-us{
+        margin-top:40px;
+       display: flex;
+       flex-direction:row-reverse;
+       align-items: center;
+       justify-content:space-around;
+       margin-bottom: 40px;
+       }
+
+       .about-us p{
+        font-size:20px;
+        width: 80%;
+        height: 80%;
+        text-align: right;
+        line-height: 30px;
+        font-weight: 900;
+        margin-top: 30px;
+        margin-right: 10px;
+    }
+
+       .about-us img{
+        margin-right: 10px;
+        width: 40%;
+        height: 40%;
+        margin-bottom: 0px;
+        transform:none;
+    
+    }
+
+
+    .form-lable{
+        font-size: 24px;
+        font-weight: 800;
+        margin-left: 80px;
+    }
+    
+    .form-input{
+        border-radius: 5px;
+        width: 36%;
+        direction: rtl;
+        font-weight: 800;
+    }
+    
+    
+    .form-btn{
+        color: white;
+        background-color: rgb(27, 37, 141);
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+        font-weight:900;
+        padding: 15px 45px;
+    }
+
+    .form-item{
+        padding: 30px 90px;
+    }
+
+    .user-p h3 {
+        font-size: 18px;
+        margin-bottom: 55px;
+        margin-right: 10px;
+        font-weight: 700;
+        border: 2px solid black;
+        border-radius: 5px;
+        padding: 10px;
+        margin-top: 30px;
+    }
+    
+    .user-p-b {
+        font-size: 17px !important;
+        padding: 10px !important;
+        margin-right:10px;
+    
+        margin-bottom: 14px;
+        
+    }
+    
+    .user-p p{
+        font-size: 23px;
+        margin-right: 10px;
+        width: 100%;
+        text-align: right;
+        margin-bottom: 55px;
+    }
+    .h-2{
+        margin-top: 50px;
+        font-size: 30px;
+    }
+}
+
+
+@media (min-width: 1200px) {
+
+    .f-p ul {
+        font-size:18px;
+        color: azure;
+        display:flex;
+        flex-direction:column;
+        font-weight: 400;
+        text-align:right;
+        line-height: 3em;
+        padding-right: 5px;
+    
+    }
+
+    #h-s-1{
+        color:black;
+        font-size: 17px;
+        font-weight: 900;
+    }
+
+    .f-icon {
+        height:auto;
+        width:40%;
+        border-radius: 15px;
+    }
+
+    .form-lable{
+        font-size: 25px;
+        font-weight: 800;
+        margin-left: 80px;
+    }
+    
+    .form-input{
+        border-radius: 5px;
+        width: 36%;
+        direction: rtl;
+        font-weight: 800;
+    }
+    
+    
+    .form-btn{
+        color: white;
+        background-color: rgb(27, 37, 141);
+        border: none;
+        border-radius: 5px;
+        font-size: 16px;
+        font-weight:900;
+        padding: 15px 45px;
+    }
+
+    .form-item{
+        padding: 30px 100px;
+    }
+
+}
